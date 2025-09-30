@@ -3,6 +3,6 @@
 
 <div>
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![GaFranc0's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaFranc0)](https://github.com/GaFranc0/github-readme-stats)
   
 </div>
