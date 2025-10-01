@@ -1,8 +1,21 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Gabriel Franco
 
+🎓 Estudante de **Desenvolvimento de Sistemas** no COTIL - Unicamp.  
+💻 Tenho conhecimento em **C, HTML, CSS e JavaScript**.  
+🚀 Busco sempre aprender novas tecnologias e evoluir como desenvolvedor.  
 
-<div>
+---
 
-  [![GaFranc0's GitHub stats](https://github-readme-stats.vercel.app/api?username=GaFranc0)](https://github.com/GaFranc0/github-readme-stats)
-  
-</div>
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** C, HTML, CSS, JavaScript  
+- **Interesses:** Desenvolvimento Web, Lógica de Programação e Projetos práticos  
+
+---
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/)  
+- ✉️ E-mail: seuemail@exemplo.com  
+
+---
+
+⭐ Sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor!
